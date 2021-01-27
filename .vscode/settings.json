@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    // 避免格式化冲突，使用 prettier 代替 vscode 自带格式化工具
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"]
+}

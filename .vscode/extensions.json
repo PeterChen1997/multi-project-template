@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "DavidAnson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
+        "Gruntfuggly.todo-tree",
+        "MS-CEINTL.vscode-language-pack-zh-hans",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "PKief.material-icon-theme",
+        "wix.vscode-import-cost",
+        "yzhang.markdown-all-in-one"
+    ]
+}
